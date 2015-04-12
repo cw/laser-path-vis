@@ -1,0 +1,12 @@
+# System-level
+.DS_Store
+
+# editor stuff
+*.swp
+
+# App stuff
+.sass-cache
+npm-debug.log
+public/
+node_modules/
+app/lib/
