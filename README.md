@@ -1,12 +1,13 @@
-# Vectorize gulp
+# laser-path-vis
 
-A gulp.js driven vectorization tool.
+While filling an area with a laser beam, you have many options for which path the beam follows. This tool helps visualize the path so you understand time and space required.
 
-* Source: [https://bitbucket.org/cw/vectorize-gulp](https://bitbucket.org/cw/vectorize-gulp)
+* Source: [https://github.com/cw/laser-path-vis](https://github.com/cw/laser-path-vis)
 
 ### Features
 
-* Choose an image and vectorize returns the SVG results
+* Pick a path from an existing SVG file
+* Define primitive
 
 ### Usage
 
@@ -17,7 +18,7 @@ A gulp.js driven vectorization tool.
 
 Run:
 ```sh
-git clone https://bitbucket.org/cw/vectorize-gulp.git && cd vectorize-gulp && npm install
+git clone https://github.com/cw/laser-path-vis.git && cd laser-path-vis && npm install
 ```
 
 Then just wait for your browser to open [http://localhost:8080/](http://localhost:8080/)!
