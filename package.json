@@ -1,0 +1,44 @@
+{
+  "name": "vectorize-gulp",
+  "version": "0.1.0",
+  "author": {
+    "name": "Christian Wilcox",
+    "email": "cw@codefuturesolutions.biz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cw/vectorize-gulp.git"
+  },
+  "scripts": {
+    "install": "bower install && gulp -o",
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "bower": "*",
+    "del": "*",
+    "express": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-bower": "*",
+    "gulp-cache": "*",
+    "gulp-concat": "*",
+    "gulp-declare": "*",
+    "gulp-define-module": "*",
+    "gulp-filter": "*",
+    "gulp-handlebars": "*",
+    "gulp-if": "*",
+    "gulp-if-else": "*",
+    "gulp-imagemin": "*",
+    "gulp-livereload": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-useref": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "minimist": "*",
+    "opn": "*",
+    "standard": "*"
+  }
+}

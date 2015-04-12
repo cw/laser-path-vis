@@ -1,0 +1,8 @@
+{
+  "name": "gulp-starter",
+  "dependencies": {
+    "jquery": "<2.0.0",
+    "handlebars": "*",
+    "snap.svg": "0.4.0"
+  }
+}
